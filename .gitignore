@@ -7,7 +7,7 @@
 /ui/public/
 /ui/**/.DS_Store
 /extensions/.temp
-/.env
 /.vscode/
 /.htmltest
 /test-reports
+config.bat
